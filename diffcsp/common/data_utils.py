@@ -22,7 +22,7 @@ from p_tqdm import p_umap
 from pymatgen.symmetry.analyzer import SpacegroupAnalyzer
 
 # from pyxtal.symmetry import Group
-from pyxtal import pyxtal
+# from pyxtal import pyxtal
 
 from pathos.pools import ProcessPool as Pool
 # from multiprocessing import Pool
