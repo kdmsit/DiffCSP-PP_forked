@@ -15,11 +15,9 @@ from pytorch_lightning.callbacks import (
     LearningRateMonitor,
     ModelCheckpoint,
 )
-from pytorch_lightning.loggers import WandbLogger
 
 from common.utils import log_hyperparameters, PROJECT_ROOT
 
-import wandb
 
 
 
